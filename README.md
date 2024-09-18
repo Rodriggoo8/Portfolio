@@ -12,11 +12,5 @@ It includes information about my background, technical expertise, and a selectio
 - **Contact**: Ways to reach me via email and social media.
 - **Technologies Used**
 
-## Setup Instructions
-To run this project locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rodriggoo8/Rodriggoo8.github.io.git
-
 ## Contact
 Feel free to reach out via [email](mailto:joao.r.a.rodrigues258@hotmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-r-80b931130/).
